@@ -9,4 +9,5 @@
 
 ### Soft Skills 🪀
 
-![Akolankiewicz Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akolankiewicz&hide_progress=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akolankiewicz&layout=donut)](https://github.com/akolankiewicz)
+
