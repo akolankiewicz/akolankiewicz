@@ -1,5 +1,5 @@
 ### Olá, eu sou Arthur Kolankiewicz! 😉
-##### Sou um programador iniciante que amo coisas novas, caso queira saber mais sobre mim...
+##### Sou um programador junior viciado em coisas novas, caso queira saber mais sobre mim, aqui está meu linktree
 ##### [linktree](https://linktr.ee/akolankiewicz)
 
 ### About me 
